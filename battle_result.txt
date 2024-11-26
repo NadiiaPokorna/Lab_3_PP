@@ -1,0 +1,3 @@
+Battle Result:
+gre [Health: 110, Damage: 15]
+hba [Health: -5, Damage: 20]
